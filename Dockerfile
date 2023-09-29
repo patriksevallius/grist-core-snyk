@@ -67,7 +67,7 @@ FROM gristlabs/gvisor-unprivileged:buster as sandbox
 ################################################################################
 
 # Now, start preparing final image.
-FROM node:14-buster-slim
+FROM node:20.6.0-buster-slim
 
 # Install libexpat1, libsqlite3-0 for python3 library binary dependencies.
 # Install pgrep for managing gvisor processes.
