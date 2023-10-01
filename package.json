@@ -168,7 +168,7 @@
     "node-fetch": "2.6.7",
     "pg": "8.6.0",
     "piscina": "3.2.0",
-    "plotly.js-basic-dist": "2.13.2",
+    "plotly.js-basic-dist": "2.26.0",
     "popper-max-size-modifier": "0.2.0",
     "popweasel": "0.1.18",
     "qrcode": "1.5.0",
