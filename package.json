@@ -175,7 +175,7 @@
     "randomcolor": "0.5.3",
     "redis": "3.1.1",
     "redlock": "3.1.2",
-    "saml2-js": "2.0.5",
+    "saml2-js": "2.0.6",
     "short-uuid": "3.1.1",
     "tmp": "0.0.33",
     "ts-interface-checker": "1.0.2",
