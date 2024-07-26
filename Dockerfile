@@ -10,7 +10,7 @@ FROM scratch as ext
 ## Javascript build stage
 ################################################################################
 
-FROM node:20.7.0-alpine as builder
+FROM node:20.16-alpine as builder
 
 # Install all node dependencies.
 WORKDIR /grist
@@ -67,7 +67,7 @@ FROM gristlabs/gvisor-unprivileged:buster as sandbox
 ################################################################################
 
 # Now, start preparing final image.
-FROM node:20.7.0-alpine
+FROM node:20.16-alpine
 
 # Install libexpat1, libsqlite3-0 for python3 library binary dependencies.
 # Install pgrep for managing gvisor processes.
