@@ -158,7 +158,7 @@
     "locale-currency": "0.0.2",
     "lodash": "4.17.21",
     "marked": "4.2.12",
-    "minio": "7.0.32",
+    "minio": "8.0.2",
     "moment": "2.29.4",
     "moment-timezone": "0.5.35",
     "morgan": "1.9.1",
