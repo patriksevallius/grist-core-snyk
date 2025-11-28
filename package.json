@@ -109,7 +109,7 @@
   },
   "dependencies": {
     "@googleapis/drive": "0.3.1",
-    "@googleapis/oauth2": "0.2.0",
+    "@googleapis/oauth2": "1.0.4",
     "@gristlabs/connect-sqlite3": "0.9.11-grist.5",
     "@gristlabs/express-session": "1.17.0",
     "@gristlabs/moment-guess": "1.2.4-grist.1",
@@ -175,7 +175,7 @@
     "randomcolor": "0.5.3",
     "redis": "3.1.1",
     "redlock": "3.1.2",
-    "saml2-js": "2.0.5",
+    "saml2-js": "4.0.0",
     "short-uuid": "3.1.1",
     "tmp": "0.0.33",
     "ts-interface-checker": "1.0.2",
